@@ -1,7 +1,7 @@
 import { Truck, ShieldCheck, RotateCcw, Headphones } from "lucide-react";
 
 const features = [
-  { icon: Truck, title: "Free Shipping", desc: "On orders over $299" },
+  { icon: Truck, title: "Free Shipping", desc: "On orders over Rs.299" },
   { icon: ShieldCheck, title: "2-Year Warranty", desc: "On all appliances" },
   { icon: RotateCcw, title: "Easy Returns", desc: "30-day money back" },
   { icon: Headphones, title: "24/7 Support", desc: "Dedicated experts" },

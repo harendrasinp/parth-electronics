@@ -14,7 +14,7 @@ const Contact = () => {
 
   const items = [
     { icon: Phone, title: "Call Us", value: "+91-982-512-5355" },
-    { icon: Mail, title: "Email", value: "hello@voltmart.shop" },
+    { icon: Mail, title: "Email", value: "info@ParthElectronics.com" },
     { icon: MapPin, title: "Visit Store", value: "24 Market Street, NY 10001" },
     { icon: Clock, title: "Hours", value: "Mon–Sat 9am – 9pm" },
   ];
