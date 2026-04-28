@@ -35,7 +35,7 @@ const Hero = () => (
             { n: "5★", l: "Rated Service" },
           ].map((s) => (
             <div key={s.l}>
-              <div className="text-2xl font-extrabold text-accent">{s.n}</div>
+              <div className="text-2xl font-extrabold text-primary-foreground">{s.n}</div>
               <div className="text-xs text-primary-foreground/70">{s.l}</div>
             </div>
           ))}
